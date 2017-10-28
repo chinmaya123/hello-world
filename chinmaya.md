@@ -83,3 +83,4 @@ public class Trythis {
 	}
 
 }
+http://blog.learningtree.com/how-to-build-a-predictive-model-using-r/
